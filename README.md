@@ -25,6 +25,9 @@ Machine learning system for predicting aircraft damage severity using gradient b
    - Serialized model to `.pkl` file
    - Created FastAPI wrapper for predictions
 
+5. **Confusion Matrix**:
+     
+
 ## API Deployment
 
 ### Render Hosting
