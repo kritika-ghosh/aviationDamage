@@ -1,12 +1,6 @@
 
 ---
-title: Aviationapi
-emoji: ⚡
-colorFrom: purple
-colorTo: pink
-sdk: docker
-pinned: false
-short_description: aviation damage api
+title: Aviation Damage Detector API
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check it out at: https://aviationdamage.onrender.com/docs#/default/predict_predict_post
