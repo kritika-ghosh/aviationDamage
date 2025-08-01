@@ -26,7 +26,7 @@ Machine learning system for predicting aircraft damage severity using gradient b
    - Created FastAPI wrapper for predictions
 
 5. **Confusion Matrix**:
-    Screenshot%202025-08-01%20221300.png
+    Screenshot 2025-08-01 221300.png
 
 ## API Deployment
 
